@@ -3,15 +3,15 @@
 **Economist · Data Scientist · Researcher · Builder**
 
 I formalize complex human systems with mathematics and turn them into code.  
-Currently: leading fraud & risk analytics at scale — researching how leaders quietly become zombies — and writing a book about the courage it takes to stop.
+Currently: researching how leaders quietly become zombies — founding a Venture Studio — and writing a book about the courage it takes to stop.
 
 ---
 
 - 🇧🇷 Based in **São Paulo, Brazil**
-- 💼 **Senior Data Science Manager** at ClearSale — 7+ years leading fraud prevention, risk analytics & scalable ML systems across payments and e-commerce
-- 📚 Author of ***The Courage to Stop*** — a book on burnout, mental health, and corporate sustainability · [Pre-order on Amazon](https://amazon.com)
+- 📚 Author of ***The Courage to Stop*** — a book on burnout, mental health & corporate sustainability · [Pre-order on Amazon](https://amazon.com)
 - 🔬 Researching leadership sustainability via dynamical systems — [DLVT on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6455001) · targeting *The Leadership Quarterly* (2026)
 - 🧠 Founding **SAPIANS** — a Venture Studio and multi-agent cognitive OS for founder-scale leverage
+- 💼 7+ years leading **fraud prevention, risk analytics & ML at scale** — payments, e-commerce, financial services
 - 🎓 B.Sc. Economics **USP** · M.Sc. Aeronautical Engineering **ITA** · PhD candidate in AI, **ICMC/USP São Carlos**
 - 🏆 William Grossman Award in Excellence in Air Transport Research (ITA) · CORECON-SP Honorable Mention
 - 📝 **181 citations · h-index 4** · [Google Scholar](https://scholar.google.com/citations?user=ln9mhjcAAAAJ) · [ORCID](https://orcid.org/0000-0001-8312-1825)
@@ -62,14 +62,6 @@ Currently: leading fraud & risk analytics at scale — researching how leaders q
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wbendinelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-</p>
 
 ---
 
