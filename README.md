@@ -1,37 +1,31 @@
 # Hi 👋, I'm William
 
-**Economist · Researcher · Builder**
+**Economist · Data Scientist · Researcher · Builder**
 
-I formalize complex human systems with mathematics and implement them with code.  
-Currently submitting a formal dynamical-systems theory of leadership to *The Leadership Quarterly* — and building SAPIANS, a cognitive OS that turns a solo founder into a company of one.
+I formalize complex human systems with mathematics and turn them into code.  
+Currently: leading fraud & risk analytics at scale — researching how leaders quietly become zombies — and writing a book about the courage it takes to stop.
 
 ---
 
 - 🇧🇷 Based in **São Paulo, Brazil**
-- 🔬 Researching how leaders quietly become zombies — [Dynamic Leadership Vitality Theory](https://github.com/wbendinelli/dlvt), targeting *The Leadership Quarterly* (2026)
-- 🧠 Building **SAPIANS** — a multi-agent cognitive OS with SAA-7/SPA-6 architecture for founder-scale leverage
-- 📊 Background in transportation economics, industrial organization & financial risk management
-- 🎓 B.Sc. Economics **USP** · M.Sc. Aeronautical Engineering **ITA**
+- 💼 **Senior Data Science Manager** at ClearSale — 7+ years leading fraud prevention, risk analytics & scalable ML systems across payments and e-commerce
+- 📚 Author of ***The Courage to Stop*** — a book on burnout, mental health, and corporate sustainability · [Pre-order on Amazon](https://amazon.com)
+- 🔬 Researching leadership sustainability via dynamical systems — [DLVT on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6455001) · targeting *The Leadership Quarterly* (2026)
+- 🧠 Founding **SAPIANS** — a Venture Studio and multi-agent cognitive OS for founder-scale leverage
+- 🎓 B.Sc. Economics **USP** · M.Sc. Aeronautical Engineering **ITA** · PhD candidate in AI, **ICMC/USP São Carlos**
 - 🏆 William Grossman Award in Excellence in Air Transport Research (ITA) · CORECON-SP Honorable Mention
-- 🔭 Former visiting researcher at **CTE-ITA** and **OFOR-UIUC** (University of Illinois)
 - 📝 **181 citations · h-index 4** · [Google Scholar](https://scholar.google.com/citations?user=ln9mhjcAAAAJ) · [ORCID](https://orcid.org/0000-0001-8312-1825)
-- 💬 Ask me about **dynamical systems, agent-based AI, transportation economics, and founder leverage**
+- 💬 Ask me about **LLMs, predictive modeling, fraud analytics, causal inference, economic theory, game theory, burnout systems**
 
 ---
 
 ## 🔬 Research
 
-Some of my published and ongoing work:
+📐 **[Dynamic Leadership Vitality Theory (DLVT)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6455001)** — Formal ODE model proving most leaders converge to a *zombie equilibrium*: authority intact, strategic bandwidth depleted. Global asymptotic stability proved via Bendixson–Dulac + Poincaré–Bendixson. Available on SSRN. Targeting *The Leadership Quarterly*, 2026. → [Python package](https://github.com/wbendinelli/dlvt)
 
-📐 **[Dynamic Leadership Vitality Theory (DLVT)](https://github.com/wbendinelli/dlvt)** — Formal dynamical-systems model proving that most leaders converge to a "zombie equilibrium" — alive in title, depleted in bandwidth. Proves global asymptotic stability via Bendixson–Dulac + Poincaré–Bendixson. Submitted to *The Leadership Quarterly*, 2026.
+✈️ **[Airline delays, congestion internalization and non-price spillover effects of LCC entry](https://doi.org/10.1016/j.tra.2016.01.005)** — *Transportation Research Part A* (2016). **93 citations.**
 
-✈️ **[Airline delays, congestion internalization and non-price spillover effects of LCC entry](https://doi.org/10.1016/j.tra.2016.01.005)** — *Transportation Research Part A* (2016). 93 citations.
-
-🌽 **[Post-harvest grain losses: main determinants](https://doi.org/10.1016/j.spc.2020.01.020)** — *Sustainable Production and Consumption* (2020). 67 citations.
-
-🛫 **[Econometric model for demand in privatized airports](https://doi.org/10.1590/2238-1031.jtl.v9n1a3)** — *Journal of Transport Literature* (2015). 11 citations.
-
-📘 **[Vivendo e convivendo com atrasos](https://doi.org/10.5327/Z26746913202300030003)** — Book chapter on airline delay dynamics, 2023.
+🌽 **[What are the main factors that determine post-harvest losses of grains?](https://doi.org/10.1016/j.spc.2020.01.020)** — *Sustainable Production and Consumption* (2020). **67 citations.**
 
 ---
 
@@ -41,45 +35,41 @@ Some of my published and ongoing work:
 
 🤖 **[agentic-researcher](https://github.com/wbendinelli/agentic-researcher)** — End-to-end AI-assisted scientific research pipeline. 11 SOTA-grounded agents (PaperQA2, WriteHERE, STORM) with full SAA-6/SPA-6 architecture.
 
-📘 **[sapians-courage-to-stop](https://github.com/wbendinelli/sapians-courage-to-stop)** — Autonomous editorial pipeline for authoring, editing, and fact-checking *A Coragem de Parar* via specialized cognitive agents.
+---
 
-📐 **[dlvt](https://github.com/wbendinelli/dlvt)** — Python package for the Dynamic Leadership Vitality Theory. Simulates vitality–capital ODE dynamics, finds equilibria, classifies leadership regimes. MIT Licensed.
+## 🧰 Stack
 
-🙏 **[sapians-gratia](https://github.com/wbendinelli/sapians-gratia-landing)** — Co-creative editorial platform for pastors, theologians, and Christian leaders. React 19 + TypeScript, deployed on Vercel.
+**Predictive & Statistical Modeling**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+**MLOps & Data Engineering**  
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Generative AI & Agentic Systems**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wbendinelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbendinelli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wbendinelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wbendinelli&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧰 Stack
-
-**Research & Data**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-
-**Building & Shipping**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -88,7 +78,6 @@ Some of my published and ongoing work:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wbendinelli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wbendinelli)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8312--1825-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8312-1825)
 [![Google Scholar](https://img.shields.io/badge/Scholar-William%20Bendinelli-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ln9mhjcAAAAJ)
-[![Email](https://img.shields.io/badge/Email-wbendinelli%40usp.br-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wbendinelli@usp.br)
 
 ---
 
