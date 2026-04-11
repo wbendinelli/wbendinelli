@@ -15,7 +15,7 @@ Currently: researching how leaders quietly become zombies — founding a Venture
 - 🎓 B.Sc. Economics **USP** · M.Sc. Aeronautical Engineering **ITA** · PhD candidate in AI, **ICMC/USP São Carlos**
 - 🏆 William Grossman Award in Excellence in Air Transport Research (ITA) · CORECON-SP Honorable Mention
 - 📝 **181 citations · h-index 4** · [Google Scholar](https://scholar.google.com/citations?user=ln9mhjcAAAAJ) · [ORCID](https://orcid.org/0000-0001-8312-1825)
-- 💬 Ask me about **LLMs, RAG pipelines, predictive modeling, fraud analytics, causal inference, economic theory, game theory, burnout systems**
+- 💬 Ask me about **LLMs, agentic systems, predictive modeling, fraud analytics, causal inference, economic theory, game theory, burnout**
 
 ---
 
@@ -35,7 +35,7 @@ Currently: researching how leaders quietly become zombies — founding a Venture
 
 🤖 **[agentic-researcher](https://github.com/wbendinelli/agentic-researcher)** — End-to-end AI-assisted scientific research pipeline. 11 SOTA-grounded agents (PaperQA2, WriteHERE, STORM) with structured multi-step reasoning, citation grounding, and automated manuscript generation. SAA-6/SPA-6 architecture with human-in-the-loop review gates.
 
-📖 **[sapians-gratia-docs](https://github.com/wbendinelli/sapians-gratia-docs)** — AI-native documentation platform with RAG-powered semantic search and conversational Q&A. Users interact with the full documentation corpus through natural language — no keyword search, no navigation trees. Built on dense vector embeddings, pgvector, and LLM-orchestrated retrieval (LlamaIndex + Anthropic Claude). Designed as a reusable documentation standard across all SAPIANS products.
+📖 **[sapians-gratia-docs](https://github.com/wbendinelli/sapians-gratia-docs)** — AI-native documentation platform with RAG-powered semantic search and conversational Q&A. Users interact with the full documentation corpus through natural language — no keyword search, no navigation trees. Built on dense vector embeddings and LLM-orchestrated retrieval (LangChain + Anthropic Claude). Designed as a reusable documentation standard across all SAPIANS products.
 
 📗 **[sapians-book-experience-test](https://github.com/wbendinelli/sapians-book-experience-test)** — Experimental AI-augmented reading environment for *The Courage to Stop*. Embeds the full book corpus into a semantic retrieval pipeline, enabling conversational reading, context-aware annotation, and LLM-mediated thematic navigation. Explores how generative AI can transform linear narrative into an adaptive, dialogue-driven reading experience.
 
@@ -43,32 +43,30 @@ Currently: researching how leaders quietly become zombies — founding a Venture
 
 ## 🧰 Stack
 
-**Predictive & Statistical Modeling**  
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+**ML & Modeling**  
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-**MLOps & Data Engineering**  
+**Data Engineering & MLOps**  
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-**Generative AI & Agentic Systems**  
+**Generative AI & Agents**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2D8B?style=flat-square&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-191919?style=flat-square&logoColor=white)
 
 ---
 
