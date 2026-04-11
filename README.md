@@ -23,9 +23,9 @@ Currently: researching how leaders quietly become zombies — founding a Venture
 
 📐 **[Dynamic Leadership Vitality Theory (DLVT)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6455001)** — Formal ODE model proving most leaders converge to a *zombie equilibrium*: authority intact, strategic bandwidth depleted. Global asymptotic stability proved via Bendixson–Dulac + Poincaré–Bendixson. Available on SSRN. Targeting *The Leadership Quarterly*, 2026. → [Python package](https://github.com/wbendinelli/dlvt)
 
-✈️ **[Airline delays, congestion internalization and non-price spillover effects of LCC entry](https://doi.org/10.1016/j.tra.2016.01.005)** — *Transportation Research Part A* (2016). **93 citations.**
+✈️ **[Airline delays, congestion internalization and non-price spillover effects of LCC entry](https://www.sciencedirect.com/science/article/abs/pii/S0965856415301063)** — *Transportation Research Part A* (2016). **93 citations.**
 
-🌽 **[What are the main factors that determine post-harvest losses of grains?](https://doi.org/10.1016/j.spc.2020.01.020)** — *Sustainable Production and Consumption* (2020). **67 citations.**
+🌽 **[What are the main factors that determine post-harvest losses of grains?](https://www.sciencedirect.com/science/article/abs/pii/S235255091930123X)** — *Sustainable Production and Consumption* (2020). **67 citations.**
 
 ---
 
