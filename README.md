@@ -15,7 +15,7 @@ Currently: researching how leaders quietly become zombies — founding a Venture
 - 🎓 B.Sc. Economics **USP** · M.Sc. Aeronautical Engineering **ITA** · PhD candidate in AI, **ICMC/USP São Carlos**
 - 🏆 William Grossman Award in Excellence in Air Transport Research (ITA) · CORECON-SP Honorable Mention
 - 📝 **181 citations · h-index 4** · [Google Scholar](https://scholar.google.com/citations?user=ln9mhjcAAAAJ) · [ORCID](https://orcid.org/0000-0001-8312-1825)
-- 💬 Ask me about **LLMs, predictive modeling, fraud analytics, causal inference, economic theory, game theory, burnout systems**
+- 💬 Ask me about **LLMs, RAG pipelines, predictive modeling, fraud analytics, causal inference, economic theory, game theory, burnout systems**
 
 ---
 
@@ -31,9 +31,13 @@ Currently: researching how leaders quietly become zombies — founding a Venture
 
 ## 🛠️ What I'm Building
 
-🧠 **[sapians-cognitive-system](https://github.com/wbendinelli/sapians-cognitive-system)** — SAPIANS OS: enterprise multi-agent venture builder. Highly specialized SAA-7/SPA-6 agents transforming a single founder into a company of one.
+🧠 **[sapians-cognitive-system](https://github.com/wbendinelli/sapians-cognitive-system)** — SAPIANS OS: enterprise multi-agent venture builder. Orchestrates highly specialized SAA-7/SPA-6 agents — each owning a cognitive domain (research, editorial, finance, ops) — transforming a single founder into a company of one. Built on LangGraph, Anthropic Claude, and structured tool-use pipelines.
 
-🤖 **[agentic-researcher](https://github.com/wbendinelli/agentic-researcher)** — End-to-end AI-assisted scientific research pipeline. 11 SOTA-grounded agents (PaperQA2, WriteHERE, STORM) with full SAA-6/SPA-6 architecture.
+🤖 **[agentic-researcher](https://github.com/wbendinelli/agentic-researcher)** — End-to-end AI-assisted scientific research pipeline. 11 SOTA-grounded agents (PaperQA2, WriteHERE, STORM) with structured multi-step reasoning, citation grounding, and automated manuscript generation. SAA-6/SPA-6 architecture with human-in-the-loop review gates.
+
+📖 **[sapians-gratia-docs](https://github.com/wbendinelli/sapians-gratia-docs)** — AI-native documentation platform with RAG-powered semantic search and conversational Q&A. Users interact with the full documentation corpus through natural language — no keyword search, no navigation trees. Built on dense vector embeddings, pgvector, and LLM-orchestrated retrieval (LlamaIndex + Anthropic Claude). Designed as a reusable documentation standard across all SAPIANS products.
+
+📗 **[sapians-book-experience-test](https://github.com/wbendinelli/sapians-book-experience-test)** — Experimental AI-augmented reading environment for *The Courage to Stop*. Embeds the full book corpus into a semantic retrieval pipeline, enabling conversational reading, context-aware annotation, and LLM-mediated thematic navigation. Explores how generative AI can transform linear narrative into an adaptive, dialogue-driven reading experience.
 
 ---
 
@@ -60,8 +64,11 @@ Currently: researching how leaders quietly become zombies — founding a Venture
 
 **Generative AI & Agentic Systems**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2D8B?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
