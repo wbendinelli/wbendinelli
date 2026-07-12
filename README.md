@@ -8,10 +8,11 @@ Currently: researching how leaders quietly become zombies — founding a Venture
 ---
 
 - 🇧🇷 Based in **São Paulo, Brazil**
+- 🌐 **PT-BR** (native) · **EN** (fluent)
 - 📚 Author of ***The Courage to Stop*** — a book on burnout, mental health & corporate sustainability · [Pre-order on Amazon](https://www.amazon.com.br/Courage-Stop-Manifesto-Exhaustion-Identity-ebook/dp/B0GT6WKZNK)
 - 🔬 Researching leadership sustainability via dynamical systems — [DLVT on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6455001) · targeting *The Leadership Quarterly* (2026)
 - 🧠 Founding **SAPIANS** — a Venture Studio and multi-agent cognitive OS for founder-scale leverage
-- 💼 7+ years leading **fraud prevention, risk analytics & ML at scale** — payments, e-commerce, financial services
+- 💼 7+ years leading **fraud prevention & risk ML at scale** — `[X]%` reduction in fraud losses · `US$[Y]` in GMV protected · models serving `[Z]` real-time decisions/day <!-- TODO: replace [X]/[Y]/[Z] with real figures before merging -->
 - 🎓 B.Sc. Economics **USP** · M.Sc. Aeronautical Engineering **ITA** · PhD candidate in AI, **ICMC/USP São Carlos**
 - 🏆 William Grossman Award in Excellence in Air Transport Research (ITA) · CORECON-SP Honorable Mention
 - 📝 **181 citations · h-index 4** · [Google Scholar](https://scholar.google.com/citations?user=ln9mhjcAAAAJ) · [ORCID](https://orcid.org/0000-0001-8312-1825)
@@ -20,6 +21,8 @@ Currently: researching how leaders quietly become zombies — founding a Venture
 ---
 
 ## 🔬 Research
+
+<!-- TODO: bio stat says 181 citations total, but the two papers below sum to 93+67=160. ~21 citations are coming from another work not listed here (thesis? working paper?) — check Google Scholar and add it. -->
 
 📐 **[Dynamic Leadership Vitality Theory (DLVT)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6455001)** — Formal ODE model proving most leaders converge to a *zombie equilibrium*: authority intact, strategic bandwidth depleted. Global asymptotic stability proved via Bendixson–Dulac + Poincaré–Bendixson. Available on SSRN. Targeting *The Leadership Quarterly*, 2026. → [Python package](https://github.com/wbendinelli/dlvt)
 
@@ -31,13 +34,13 @@ Currently: researching how leaders quietly become zombies — founding a Venture
 
 ## 🛠️ What I'm Building
 
-🧠 **[sapians-cognitive-system](https://github.com/wbendinelli/sapians-cognitive-system)** — SAPIANS OS: enterprise multi-agent venture builder. Orchestrates highly specialized SAA-7/SPA-6 agents — each owning a cognitive domain (research, editorial, finance, ops) — transforming a single founder into a company of one. Built on LangGraph, Anthropic Claude, and structured tool-use pipelines.
+🧠 **sapians-cognitive-system** *(private — case study coming soon)* — SAPIANS OS: enterprise multi-agent venture builder. Orchestrates highly specialized SAA-7/SPA-6 agents — each owning a cognitive domain (research, editorial, finance, ops) — transforming a single founder into a company of one. Built on LangGraph, Anthropic Claude, and structured tool-use pipelines.
 
-🤖 **[agentic-researcher](https://github.com/wbendinelli/agentic-researcher)** — End-to-end AI-assisted scientific research pipeline. 11 SOTA-grounded agents (PaperQA2, WriteHERE, STORM) with structured multi-step reasoning, citation grounding, and automated manuscript generation. SAA-6/SPA-6 architecture with human-in-the-loop review gates.
+🤖 **agentic-researcher** *(private — case study coming soon)* — End-to-end AI-assisted scientific research pipeline. 11 SOTA-grounded agents (PaperQA2, WriteHERE, STORM) with structured multi-step reasoning, citation grounding, and automated manuscript generation. SAA-6/SPA-6 architecture with human-in-the-loop review gates.
 
-📖 **[sapians-gratia-docs](https://github.com/wbendinelli/sapians-gratia-docs)** — AI-native documentation platform with RAG-powered semantic search and conversational Q&A. Users interact with the full documentation corpus through natural language — no keyword search, no navigation trees. Built on dense vector embeddings and LLM-orchestrated retrieval (LangChain + Anthropic Claude). Designed as a reusable documentation standard across all SAPIANS products.
+📖 **sapians-gratia-docs** *(private — case study coming soon)* — AI-native documentation platform with RAG-powered semantic search and conversational Q&A. Users interact with the full documentation corpus through natural language — no keyword search, no navigation trees. Built on dense vector embeddings and LLM-orchestrated retrieval (LangChain + Anthropic Claude). Designed as a reusable documentation standard across all SAPIANS products.
 
-📗 **[sapians-book-experience-test](https://github.com/wbendinelli/sapians-book-experience-test)** — Experimental AI-augmented reading environment for *The Courage to Stop*. Embeds the full book corpus into a semantic retrieval pipeline, enabling conversational reading, context-aware annotation, and LLM-mediated thematic navigation. Explores how generative AI can transform linear narrative into an adaptive, dialogue-driven reading experience.
+📗 **sapians-book-experience-test** *(private — case study coming soon)* — Experimental AI-augmented reading environment for *The Courage to Stop*. Embeds the full book corpus into a semantic retrieval pipeline, enabling conversational reading, context-aware annotation, and LLM-mediated thematic navigation. Explores how generative AI can transform linear narrative into an adaptive, dialogue-driven reading experience.
 
 ---
 
