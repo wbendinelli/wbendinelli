@@ -19,7 +19,7 @@ Different fields, one question: **how much is a number about a person allowed to
 ---
 
 - 🎓 B.Sc. Economics **USP** · M.Sc. Aeronautical Engineering **ITA** · PhD candidate in AI, **ICMC-USP**
-- 📝 **<!--scholar:total-->191<!--/scholar--> citations** — [*Transportation Research Part A*](https://www.sciencedirect.com/science/article/abs/pii/S0965856415301063) (<!--scholar:airline-->95<!--/scholar-->) · [*Sustainable Production and Consumption*](https://www.sciencedirect.com/science/article/abs/pii/S235255091930123X) (<!--scholar:grains-->75<!--/scholar-->) · [Scholar](https://scholar.google.com/citations?user=ln9mhjcAAAAJ) · [ORCID](https://orcid.org/0000-0001-8312-1825)
+- 📝 **<!--scholar:total-->192<!--/scholar--> citations** — [*Transportation Research Part A*](https://www.sciencedirect.com/science/article/abs/pii/S0965856415301063) (<!--scholar:airline-->95<!--/scholar-->) · [*Sustainable Production and Consumption*](https://www.sciencedirect.com/science/article/abs/pii/S235255091930123X) (<!--scholar:grains-->76<!--/scholar-->) · [Scholar](https://scholar.google.com/citations?user=ln9mhjcAAAAJ) · [ORCID](https://orcid.org/0000-0001-8312-1825)
 - 📚 Author of ***A Coragem de Parar*** (2026) — on deciding to stop when no diagnosis arrives to authorize it · [PT-BR](https://www.amazon.com.br/dp/B0GT7NJ9TQ) · [English](https://www.amazon.com.br/dp/B0GT6WKZNK)
 - 🏆 William Grossman Award for Excellence in Air Transport Research (ITA)
 - 🇧🇷 São Paulo, Brazil · building **SAPIANS** · in Start Digital, Sebrae for Startups
