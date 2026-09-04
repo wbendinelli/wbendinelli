@@ -52,6 +52,12 @@ validation studies run.
 
 ## Research
 
+🔍 **[What the literature did with this work →](https://github.com/wbendinelli/wbendinelli/blob/main/research.md)**
+— I retrieved every paper that cites my two published articles, read the ones I could obtain, and
+coded what each citation actually does with the work: how deeply it is used, and whether the claim
+attributed to the paper is one the paper makes. Method, data and code:
+[citation-audit](https://github.com/wbendinelli/citation-audit).
+
 📐 **[Dynamic Leadership Vitality Theory (DLVT)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6455001)**
 — A two-state formal model of how enacted leadership scope, coordination load, and vitality may
 coevolve. Its central result is the counterintuitive one: narrowing a leader's scope changes what
